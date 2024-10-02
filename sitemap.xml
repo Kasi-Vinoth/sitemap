@@ -1,27 +1,26 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>https://www.example.com/</loc>
-    <lastmod>2024-10-01</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://www.example.com/about</loc>
-    <lastmod>2024-09-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.example.com/contact</loc>
-    <lastmod>2024-09-20</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://www.example.com/blog</loc>
-    <lastmod>2024-09-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-</urlset>
+<url>
+<loc>https://qa.cancer.org</loc>
+<lastmod>2024-09-30T12:15:11Z</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+<url>
+<loc>https://qa.cancer.org/testtitle01newsarticle.html</loc>
+<lastmod>2024-02-14T11:05:40Z</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+<url>
+<loc>https://qa.cancer.org/cancer/types.html</loc>
+<lastmod>2023-05-19T15:14:35Z</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+<url>
+<loc>https://qa.cancer.org/cancer/types/acute-lymphocytic-leukemia.html</loc>
+<lastmod>2023-10-24T17:27:23Z</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+<urlset>
