@@ -35,16 +35,4 @@
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
-<url>
-<loc>https://qa.cancer.org/cancer/types/lung-cancer/causes-risks-prevention.html</loc>
-<lastmod>2024-03-01T13:56:00Z</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-<url>
-<loc>https://qa.cancer.org/cancer/types/lung-cancer/causes-risks-prevention/risk-factors.html</loc>
-<lastmod>2024-03-04T21:34:27Z</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
 </urlset>
