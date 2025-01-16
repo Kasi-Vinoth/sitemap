@@ -17,10 +17,4 @@
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
-<url>
-<loc>https://qa.cancer.org/cancer/types.html</loc>
-<lastmod>2024-08-31T15:56:51Z</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
 </urlset>
