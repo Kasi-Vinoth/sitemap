@@ -12,6 +12,12 @@
 <priority>0.5</priority>
 </url>
 <url>
+<loc>https://qa.cancer.org/sp1/testa.html</loc>
+<lastmod>2024-11-11T12:39:06Z</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+<url>
 <loc>https://qa.cancer.org/sp1/sleep.html</loc>
 <lastmod>2024-11-11T13:08:20Z</lastmod>
 <changefreq>daily</changefreq>
